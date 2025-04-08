@@ -4,24 +4,16 @@ This project aims to analyze lung cancer cases using a data-driven approach, lev
 <br>
 <img src = "https://github.com/user-attachments/assets/bd94510b-2563-4509-8461-ee826609aeaa" width="600" height="350"/>
 
-
+## **Important Links**
+### [LINKEDIN POST](https://www.linkedin.com/posts/amaresam-sai-bharath-chand-47ba50168_lung-cancer-analysis-activity-7298771500776468481-DBHt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgFj58BoP2A-0POvwS4i3iyqDd6SpSslbo)
+### [PRESENTATION](https://github.com/user-attachments/files/19658172/lung_cancer_anlysis.pdf)
+### [DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiMzJkYWRmMDItZjgxNy00OWNlLThlMjMtNTY0MzczMzA1OWUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=bc7870b28086c252e3ff)
+### [SQL CODES](https://github.com/user-attachments/files/19658229/SQL_codes.pdf)
 
 
 ## 🔍 Business Problem
 Lung cancer remains one of the most prevalent and deadliest diseases worldwide, with several contributing factors such as smoking, passive smoking, air pollution, and occupational exposure. Understanding the key risk factors, survival trends, and treatment outcomes can help healthcare professionals and policymakers optimize prevention, early detection, and treatment strategies.
 
-### Objectives :
-
-1. **Understanding & Processing the Data**: 
-- Explore and understand the key metrics in lung cancer data 
-- Clean and preprocess data for accurate analysis. 
-2. **Analysis key metrics in SQL** : 
-- Analyze SQL results to identify high-risk groups and key determinants of survival. 
-3. **Visualizing Key Trends** : 
-- Create interactive Power BI dashboards to showcase cancer prevalence, smoking impact, and treatment outcomes. 
-- Use KPIs and charts to highlight critical patterns. 
-4. **Drawing Actionable Insights**:
-- Provide data-driven recommendations for early detection and effective treatments.
 
 ## Meta data and Queries :
 
