@@ -103,10 +103,15 @@ Through SQL analysis and Power BI visualization, this study uncovered key insigh
 - A Big thank you to **Futurion Tech** and **Sakshi Mogal** for providing this wonderful opportunity! 
 
 ## Hi, I'm Bharath! 👋
-
-[![My portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Amaresam-Sai-Bharath-Chand)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/bharath-amaresam/bharath-amaresam/blob/main/www.linkedin.com/in/amaresam-sai-bharath-chand-47ba50168)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Amaresam-Sai-Bharath-Chand)
+&emsp;
+[![Gmail](https://img.shields.io/badge/bharath.temp3@gmail.com-white?logo=Gmail)](mailto:bharath.temp3@gmail.com)
+&emsp;
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaresam-sai-bharath-chand-47ba50168/)
+&emsp;
 [![youtube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/ZkzLYNFPqwk)
+&emsp;
+
 
 
 
